@@ -7,7 +7,7 @@
 <details>
 	<summary>📈 Stats</summary>
 	<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kubinka0505&theme=dark">
-	
+	<br>
 	<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kubinka0505&theme=dark"> 
 	<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kubinka0505&theme=dark">
 </details>
