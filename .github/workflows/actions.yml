@@ -56,4 +56,7 @@ jobs:
           plugin_languages_details: yes
           plugin_languages_indepth: yes
           plugin_licenses: yes
+          plugin_licenses_legal: yes
+          plugin_licenses_ratio: yes
+          plugin_licenses: yes
           
