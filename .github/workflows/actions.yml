@@ -58,5 +58,3 @@ jobs:
           plugin_licenses: yes
           plugin_licenses_legal: yes
           plugin_licenses_ratio: yes
-          plugin_licenses: yes
-          
