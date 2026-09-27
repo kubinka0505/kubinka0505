@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            178 Commits
+                            181 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -214,17 +214,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 3.11mb of code in 779 edited files across 132 commits</small>
+                <small>estimation from 3.15mb of code in 810 edited files across 135 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="470.8807374710808" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="470.8807374710808" y="0" width="201.1511067876121" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="672.0318442586929" y="0" width="164.43906820981815" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="836.470912468511" y="0" width="64.06327139573374" height="8" fill="#7355dd"/>
-                    <rect mask="url(#languages-bar)" x="900.5341838642448" y="0" width="19.46581613575522" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="480.1104834526517" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="480.1104834526517" y="0" width="197.01729696367485" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="677.1277804163266" y="0" width="161.05971899091196" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="838.1874994072385" y="0" width="62.746721937575096" height="8" fill="#7355dd"/>
+                    <rect mask="url(#languages-bar)" x="900.9342213448135" y="0" width="19.065778655186428" height="8" fill="#663399"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -644,7 +644,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Sept 2026, 12:30:20 (timezone Europe/Warsaw) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Sept 2026, 17:36:13 (timezone Europe/Warsaw) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
